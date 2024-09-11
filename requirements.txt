@@ -23,9 +23,9 @@ fiona==1.9.6
 Flask==3.0.3
 folium==0.16.0
 fonttools==4.47.2
-geodatasets==2023.12.0
+geodatasets
 geographiclib==2.0
-geopandas==0.14.3
+geopandas
 geopy==2.4.1
 gpxpy==1.6.2
 graphviz==0.20.3
@@ -40,9 +40,9 @@ Jinja2==3.1.3
 joblib==1.3.2
 jsonpickle==3.0.3
 jsonschema==4.21.1
-jsonschema-specifications==2023.12.1
-jupyter_client==8.6.0
-jupyter_core==5.7.1
+jsonschema-specifications
+jupyter_client
+jupyter_core
 kiwisolver==1.4.5
 mapclassify==2.6.1
 MarkupSafe==2.1.4
@@ -58,8 +58,8 @@ pandas==2.1.4
 parso==0.8.3
 pexpect==4.9.0
 pillow==10.2.0
-platformdirs==4.2.0
-pooch==1.8.1
+platformdirs
+pooch
 prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
@@ -91,7 +91,7 @@ typing_extensions==4.9.0
 tzdata==2023.4
 urllib3==1.26.8
 vega-datasets==0.9.0
-virtualenv==20.16.4
+virtualenv
 wcwidth==0.2.13
 Werkzeug==3.0.4
 xyzservices==2023.10.1
